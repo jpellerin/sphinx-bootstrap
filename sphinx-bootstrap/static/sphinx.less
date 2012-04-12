@@ -25,7 +25,7 @@
 .admonition-title
 {
   font-weight: bold;
-  font-size: @baseFontSize * 1.1;
+  font-size: @baseFontSize * 1.2;
 }
 
 a.headerlink {
@@ -55,4 +55,19 @@ ul, ol
 {
   margin-left: 1em;
   list-style: none;
+}
+
+dl.class > dt, dl.function > dt, dl.cmdoption > dt, dl.method > dt
+{
+  font-size: @baseFontSize * 1.2;
+}
+
+dd
+{
+  margin-left: @baseLineHeight;
+}
+
+span.viewcode-link:before, a.viewcode-back:after
+{
+  content: " ";
 }

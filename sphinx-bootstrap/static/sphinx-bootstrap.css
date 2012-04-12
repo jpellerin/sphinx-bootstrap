@@ -6921,9 +6921,6 @@ a.thumbnail:hover {
     margin-left: 30px;
   }
 }
-/*@import "bootswatch.less";
-@import "variables.less";
-*/
 .admonition {
   padding: 8px 35px 8px 14px;
   margin-bottom: 18px;
@@ -6945,7 +6942,7 @@ a.thumbnail:hover {
 }
 .admonition-title {
   font-weight: bold;
-  font-size: 14.3px;
+  font-size: 15.6px;
 }
 a.headerlink {
   visibility: hidden;
@@ -6971,4 +6968,17 @@ ul,
 ol {
   margin-left: 1em;
   list-style: none;
+}
+dl.class > dt,
+dl.function > dt,
+dl.cmdoption > dt,
+dl.method > dt {
+  font-size: 15.6px;
+}
+dd {
+  margin-left: 18px;
+}
+span.viewcode-link:before,
+a.viewcode-back:after {
+  content: " ";
 }
