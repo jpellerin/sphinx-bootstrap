@@ -6,7 +6,7 @@ sphinx-bootstrap
 Demo
 ----
 Projects using it:
-~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~
 - `EngineAuth <http://code.scotchmedia.com/engineauth>`_
 
 Install
@@ -41,6 +41,6 @@ sphinx-bootstrap
 Code licensed under the `Apache License v2.0 <http://www.apache.org/licenses/LICENSE-2.0>`_. Documentation licensed under `CC BY 3.0 <http://creativecommons.org/licenses/by/3.0/>`_
 
 Twitter's Bootstrap
-~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~
 Code licensed under the `Apache License v2.0 <http://www.apache.org/licenses/LICENSE-2.0>`_. Documentation licensed under `CC BY 3.0 <http://creativecommons.org/licenses/by/3.0/>`_
 
